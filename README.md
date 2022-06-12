@@ -1,6 +1,6 @@
 Halo! iamnaran 
 
-<img src="https://i.pinimg.com/originals/30/d8/43/30d843f75c71f9258d8a76dee410eb25.gif" width="24px" height="24px" alt="hi">
+<img src="https://i.pinimg.com/originals/30/d8/43/30d843f75c71f9258d8a76dee410eb25.gif" width="124px" height="124px" alt="hi">
 
 
 
