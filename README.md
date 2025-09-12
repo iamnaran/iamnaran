@@ -24,5 +24,3 @@
 If you like what I do, maybe consider buying me a coffee?
 
 <a href="https://www.buymeacoffee.com/iamnaran" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="150" ></a>
-
-<br/>
