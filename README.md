@@ -4,7 +4,7 @@
 
 <h3>I'm a Mobile Application Developer and a <span>Designer</span></h3>
 
-- 📚 I'm currently learning AI & Machine Learning in Mobile Devices
+- 📚 I'm currently learning AI & Machine Learning in Android | iOS Devices
 
 #### Connect with me
 
