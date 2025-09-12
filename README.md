@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/website?down_message=%E2%96%BC&label=Portfolio&style=for-the-badge&up_message=%E2%96%B2&url=http%3A%2F%2Fdipanjande.com%2F)](https://narayanpanthi.com.np)
 
 <h3>I'm a Mobile Application Developer and a <span>Designer</span></h3>
-<br/><br/>
+<br/>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnaran&theme=github_dark&layout=compact&hide=jupyter%20notebook,matlab" />
@@ -25,4 +25,4 @@ If you like what I do, maybe consider buying me a coffee?
 
 <a href="https://www.buymeacoffee.com/iamnaran" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="150" ></a>
 
----
+<br/>
