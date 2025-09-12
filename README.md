@@ -23,7 +23,7 @@
 
 <h4>Languages</h4>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacon-delight&theme=github_dark&layout=compact&hide=jupyter%20notebook,matlab" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnaran&theme=github_dark&layout=compact&hide=jupyter%20notebook,matlab" />
 </p>
   
 <br/><br/>
