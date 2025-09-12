@@ -4,6 +4,12 @@
 
 <h3>I'm a Mobile Application Developer and a <span>Designer</span></h3>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnaran&theme=github_dark&layout=compact&hide=jupyter%20notebook,matlab" />
+</p>
+  
+<br/><br/>
+
 - 📚 I'm currently learning AI & Machine Learning in Android | iOS Devices
 
 #### Connect with me
@@ -16,18 +22,6 @@
 <br/><br/>
 
 ---
-
-### What I work with
-
-<p>These are some of the languages, tools and frameworks that I use on a regular basis.</p>
-
-<h4>Languages</h4>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnaran&theme=github_dark&layout=compact&hide=jupyter%20notebook,matlab" />
-</p>
-  
-<br/><br/>
-
 
 If you like what I do, maybe consider buying me a coffee?
 
