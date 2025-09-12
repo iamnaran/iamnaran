@@ -37,8 +37,4 @@ If you like what I do, maybe consider buying me a coffee?
 
 ### Statistics
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bacon-delight&theme=holi-theme)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bacon-delight&count_private=true&show_icons=true&theme=github_dark)
-
-![Github Activity](https://activity-graph.herokuapp.com/graph?username=bacon-delight&theme=github&custom_title=Activity)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamnaran&count_private=true&show_icons=true&theme=github_dark)
