@@ -14,7 +14,7 @@
 
 <a href="https://www.linkedin.com/in/iamnaran/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 <a href="https://www.instagram.com/crafterpenguins/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="https://x.com/crafterpenguins"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+<a href="https://iamnaran.medium.com"><img align="left" src="https://img.shields.io/badge/Medium-1DA1F2?&style=for-the-badge&logo=Medium&logoColor=white" /></a>
 <a href="mailto:nrn.panthi@gmail.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 
 <br/><br/>
