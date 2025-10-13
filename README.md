@@ -6,7 +6,7 @@
 <br/>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnaran&theme=github_dark&layout=donut&hide=jupyter%20notebook,matlab" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnaran&theme=github_dark&layout=compact&langs_count=8&hide=jupyter%20notebook,matlab" />
 </p>
   
 
