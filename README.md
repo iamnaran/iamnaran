@@ -4,8 +4,6 @@
 
 <h3>I'm a Mobile Application Developer and a <span>Human</span></h3>
 <br/>
-  
-
 #### Connect with me
 
 <a href="https://www.linkedin.com/in/iamnaran/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
